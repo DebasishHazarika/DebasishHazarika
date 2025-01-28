@@ -15,8 +15,6 @@ As a Ph.D. researcher in Astronomy at **INCT-UDA, Chile** 🌌, I study **variab
 
 ## 📫 Connect with me 
 - **Email**: [debasish.academic@gmail.com](mailto:debasish.academic@gmail.com)  
-- **Twitter**: [x.com/73Debasish](https://x.com/73Debasish)  
-- **LinkedIn**: [linkedin.com/in/debasish-hazarika](https://linkedin.com/in/debasish-hazarika)  
 
 <!--
 **DebasishHazarika/DebasishHazarika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
