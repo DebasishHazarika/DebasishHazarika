@@ -13,7 +13,7 @@ Ph.D. researcher in Astronomy at **INCT-UDA, Chile** 🌌. I study **variable st
 - Investigating the structure and dynamics of the Milky Way
 - Exploring advanced data science techniques to extract hidden information from time-series 
 
-## 📫 Connect with me!  
+## 📫 Connect with me 
 - **Email**: [debasish.academic@gmail.com](mailto:debasish.academic@gmail.com)  
 - **Twitter**: [x.com/73Debasish](https://x.com/73Debasish)  
 - **LinkedIn**: [linkedin.com/in/debasish-hazarika](https://linkedin.com/in/debasish-hazarika)  
