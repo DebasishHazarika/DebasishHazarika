@@ -14,7 +14,7 @@ As a Ph.D. researcher in Astronomy at **INCT-UDA, Chile** 🌌, I study **variab
 - Exploring advanced data science techniques to extract hidden information from time-series 
 
 ## 📫 Connect with me 
-- **Email**: [debasish.academic@gmail.com](mailto:debasish.academic@gmail.com)  
+- **Email**: [debasish.academic@gmail.com](mailto:debasish.academic@gmail.com),  **Webpage**: [https://debasishhazarika.github.io/](https://debasishhazarika.github.io/)
 
 <!--
 **DebasishHazarika/DebasishHazarika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
