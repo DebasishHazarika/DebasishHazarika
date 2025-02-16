@@ -1,6 +1,6 @@
 # Hi there, I'm Debasish Hazarika 👋  
 
-As a Ph.D. researcher in Astronomy at **INCT-UDA, Chile** 🌌, I study **variable stars**, **Galactic structure**, and **Milky Way chemodynamics** using surveys like **S-PLUS** and **GAIA**. I'm skilled in data science techniques, with demonstrated experience in large-scale data analysis, machine learning, and workflow automation. I am passionate about leveraging data-driven solutions to address both research and real-world challenges.
+As a Ph.D. researcher in Astronomy at **INCT-UDA, Chile** 🌌, I study **variable stars**, **Galactic structure**, and **Milky Way chemodynamics** using the data from the large scale surveys like **S-PLUS**, **GAIA**, **APOGEE**, **GALAH**, **LAMOST**. I'm skilled in data science techniques, with demonstrated experience in large-scale data analysis, machine learning, and workflow automation. I am passionate about leveraging data-driven solutions to address both research and real-world challenges.
 
 ## 🚀 Skills  
 - **Astronomy**: Photometry, Spectroscopy, Stellar Pulsation, Polarimetry
