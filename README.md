@@ -5,7 +5,7 @@ As a Ph.D. researcher in Astronomy at **INCT-UDA, Chile** 🌌, I study **variab
 ## 🚀 Skills  
 - **Astronomy**: Photometry, Spectroscopy, Stellar Pulsation, Polarimetry
 - **Programming**: Python, IDL, Fortran, Bash, R, C++ 
-- **Data Science**: Machine Learning, Astro-statistics
+- **Data Science**: Machine Learning (Classification/Prediction), Astro-statistics, Time-Series Analysis
 - **Tools**: HPC, IRAF, DS9, Phoebe, Cloudy, TOPCAT etc.
 
 ## 🌟 Current Work  
