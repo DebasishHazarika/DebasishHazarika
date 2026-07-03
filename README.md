@@ -42,7 +42,7 @@ I am always interested in collaborations involving **astronomy**, **data science
 ### 📫 Connect with me
 - **Email:** [debasish.academic@gmail.com](mailto:debasish.academic@gmail.com)
 - **Website:** [https://debasishhazarika.github.io/](https://debasishhazarika.github.io/)
-- **Google Scholar:** [Google Scholar](https://scholar.google.com/citations?user=xws4J
+- **Google Scholar** [https://scholar.google.com/citations?user=xws4J](https://scholar.google.com/citations?user=xws4J)
 
 <!--
 **DebasishHazarika/DebasishHazarika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
