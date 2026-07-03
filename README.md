@@ -15,7 +15,7 @@ I completed my **BS+MS in Physical Science** from **Gauhati University**, Assam,
 
 ---
 
-## 🔭 Research Interests
+### 🔭 Research Interests
 Variable Stars, Time-Series Analysis, Big Data in Astronomy, Observational Astronomy (Photometry & Spectroscopy), Galactic Structure and Evolution, Milky Way, Magellanic Clouds, Dwarf Galaxies in the Local Universe, Stellar Populations, Machine Learning for Astronomy
 
 ---
