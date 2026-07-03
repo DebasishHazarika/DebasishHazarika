@@ -15,6 +15,11 @@ I completed my **BS+MS in Physical Science** from **Gauhati University**, Assam,
 
 ---
 
+## 🔭 Research Interests
+Variable Stars, Time-Series Analysis, Big Data in Astronomy, Observational Astronomy (Photometry & Spectroscopy), Galactic Structure and Evolution, Milky Way, Magellanic Clouds, Dwarf Galaxies in the Local Universe, Stellar Populations, Machine Learning for Astronomy
+
+---
+
 ### 🚀 Skills  
 - **Astronomy**: Photometry, Spectroscopy, Stellar Pulsation, Polarimetry
 - **Programming**: Python, IDL, Fortran, Bash, R, C++ 
@@ -29,11 +34,6 @@ I completed my **BS+MS in Physical Science** from **Gauhati University**, Assam,
 * Studying stellar populations in the **Magellanic Clouds**.
 * Applying machine learning and statistical methods to large astronomical datasets.
 * Exploring advanced data science techniques to extract hidden information from astronomical time-series.
-
----
-
-## 🔭 Research Interests
-Variable Stars, Time-Series Analysis, Big Data in Astronomy, Observational Astronomy (Photometry & Spectroscopy), Galactic Structure and Evolution, Milky Way, Magellanic Clouds, Dwarf Galaxies in the Local Universe, Stellar Populations, Machine Learning for Astronomy
 
 ---
 
