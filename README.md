@@ -5,7 +5,7 @@
 I work in **Variable Stars**, **Stellar Populations**, **Milkyway**, **Nearby galaxies**, using data from large astronomical surveys and **Machine Learning / Astrostatistics** tools. I also enjoy developing open-source scientific tools and techniques for large-scale astronomical data analysis. Open to collaboration.
 
 ---
-#### 💻 Languages & Tools I usually use:
+#### Languages & Tools I usually use:
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python"/></a>
   <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="24" height="24" alt="Jupyter"/></a>
@@ -32,7 +32,7 @@ I work in **Variable Stars**, **Stellar Populations**, **Milkyway**, **Nearby ga
 </p>
 
 ---
-#### 🌐 Connect with me:
+#### Connect with me:
 <p align="left">
   <a href="mailto:debasish.academic@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail" width="27" alt="Email"/>
