@@ -20,22 +20,21 @@ I work in **Variable Stars**, **Stellar Populations**, **Milkyway**, **Nearby ga
 
 #### 💻 Languages & Tools
 
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Astropy](https://img.shields.io/badge/Astropy-311B92?style=for-the-badge)
+#### 💻 Languages & Tools
 
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-![Dask](https://img.shields.io/badge/Dask-FC6E6B?style=for-the-badge&logo=dask&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![](https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/-?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626)
+![](https://img.shields.io/badge/-?style=for-the-badge&logo=numpy&logoColor=white&color=013243)
+![](https://img.shields.io/badge/-?style=for-the-badge&logo=pandas&logoColor=white&color=150458)
+![](https://img.shields.io/badge/-?style=for-the-badge&logo=scipy&logoColor=white&color=8CAAE6)
+![Astropy](https://img.shields.io/badge/-?style=for-the-badge&color=311B92)
+![](https://img.shields.io/badge/-?style=for-the-badge&logo=scikitlearn&logoColor=white&color=F7931E)
+![](https://img.shields.io/badge/-?style=for-the-badge&logo=tensorflow&logoColor=white&color=FF6F00)
+![](https://img.shields.io/badge/-?style=for-the-badge&logo=pytorch&logoColor=white&color=EE4C2C)
+![](https://img.shields.io/badge/-?style=for-the-badge&logo=dask&logoColor=white&color=FC6E6B)
+![](https://img.shields.io/badge/-?style=for-the-badge&logo=apachespark&logoColor=white&color=E25A1C)
+![](https://img.shields.io/badge/-?style=for-the-badge&logo=git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/-?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
+![](https://img.shields.io/badge/-?style=for-the-badge&logo=latex&logoColor=white&color=008080)
 
 > *Exploring the Milky Way and nearby galaxies through large astronomical surveys, big data, and machine learning.* 🌌
