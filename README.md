@@ -8,13 +8,6 @@ My work combines observational astronomy, data science, and statistical analysis
 
 ---
 
-### 🌏 Personal Background
-I was born and raised in **Assam, India**, a beautiful state in northeastern India renowned for its lush green landscapes, the mighty **Brahmaputra River**, rich biodiversity, tea gardens, and vibrant cultural heritage. Growing up amidst this natural beauty inspired my curiosity about the universe and science.
-
-I completed my **BS+MS in Physical Science** from **Gauhati University**, Assam, India. I then moved to the **Atacama, Chile**, one of the world's premier locations for astronomical observations, to pursue my Ph.D. in **Observational Astronomy**. Currently, I am an exchange student at **NOIRLab** in **Tucson, Arizona, USA**, where I continue my research in Galactic astronomy and large astronomical surveys.
-
----
-
 ### 🔭 Research Interests
 Variable Stars, Time-Series Analysis, Big Data in Astronomy, Observational Astronomy (Photometry & Spectroscopy), Galactic Structure and Evolution, Milky Way, Magellanic Clouds, Dwarf Galaxies in the Local Universe, Stellar Populations, Machine Learning for Astronomy
 
