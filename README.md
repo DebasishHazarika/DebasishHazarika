@@ -32,6 +32,7 @@ I work in **Variable Stars**, **Stellar Populations**, **Milkyway**, **Nearby ga
 </p>
 
 <hr style="height:1px;border:none;background-color:#d0d7de;">
+
 #### 🌐 Connect with me:
 <p align="left">
   <a href="mailto:debasish.academic@gmail.com">
