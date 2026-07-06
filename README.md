@@ -31,15 +31,28 @@ I work in **Variable Stars**, **Stellar Populations**, **Milkyway**, **Nearby ga
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="24" height="24" alt="Bash"/></a>
 </p>
 
-#### 🌐 Connect with me 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://debasishhazarika.github.io/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=xws4J2MAAAAJ)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4379-6777)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DebasishHazarika)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hazarikadebasish)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/73Debasish)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debasish.academic@gmail.com)
+#### 🌐 Connect with me
 
-
-
-> *Exploring the Milky Way and nearby galaxies through large astronomical surveys, big data, and machine learning.* 🌌
+<p align="left">
+  <a href="https://debasishhazarika.github.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/githubpages" width="40" alt="Website"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=xws4J2MAAAAJ" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlescholar" width="40" alt="Google Scholar"/>
+  </a>
+  <a href="https://orcid.org/0000-0003-4379-6777" target="_blank">
+    <img src="https://cdn.simpleicons.org/orcid" width="40" alt="ORCID"/>
+  </a>
+  <!-- <a href="https://github.com/DebasishHazarika" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  </a> -->
+  <a href="https://linkedin.com/in/hazarikadebasish" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/73Debasish" target="_blank">
+    <img src="https://cdn.simpleicons.org/x" width="40" alt="X"/>
+  </a>
+  <a href="mailto:debasish.academic@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" width="40" alt="Email"/>
+  </a>
+</p>gh large astronomical surveys, big data, and machine learning.* 🌌
