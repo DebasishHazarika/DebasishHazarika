@@ -3,6 +3,7 @@
 **Ph.D. Researcher in Astronomy**  at the Institute of Astronomy and Planetary Science (INCT-UDA), University of Atacama, Chile 🇨🇱
 
 I work in **Variable Stars**, **Stellar Populations**, **Milkyway**, **Nearby galaxies**, using data from large astronomical surveys and **Machine Learning / Astrostatistics** tools. I also enjoy developing open-source scientific tools and techniques for large-scale astronomical data analysis. Open to collaboration.
+
 ---
 #### 💻 Languages & Tools I usually use:
 <p align="left">
