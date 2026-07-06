@@ -4,7 +4,7 @@
 
 I work in **Variable Stars**, **Stellar Populations**, **Milkyway**, **Nearby galaxies**, using data from large astronomical surveys and **Machine Learning / Astrostatistics** tools. I also enjoy developing open-source scientific tools and techniques for large-scale astronomical data analysis. Open to collaboration.
 
----
+&nbsp;&nbsp;
 #### Languages & Tools I usually use:
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python"/></a>
