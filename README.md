@@ -1,10 +1,11 @@
-# Hi there, I'm Debasish Hazarika 👋
+## Hi there, I'm Debasish Hazarika 👋
 
 **Ph.D. Researcher in Astronomy**  at the Institute of Astronomy and Planetary Science (INCT-UDA), University of Atacama, Chile 🇨🇱
 
 I work in **Variable Stars**, **Stellar Populations**, **Milkyway**, **Nearby galaxies**, using data from large astronomical surveys and **Machine Learning / Astrostatistics** tools. I also enjoy developing open-source scientific tools and techniques for large-scale astronomical data analysis. Open to collaboration.
 
-#### 💻 Languages & Tools I usually use
+---
+#### 💻 Languages & Tools I usually use:
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python"/></a>
@@ -31,7 +32,8 @@ I work in **Variable Stars**, **Stellar Populations**, **Milkyway**, **Nearby ga
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="24" height="24" alt="Bash"/></a>
 </p>
 
-#### 🌐 Connect with me
+---
+#### 🌐 Connect with me:
 
 <p align="left">
   <a href="mailto:debasish.academic@gmail.com">
