@@ -13,23 +13,6 @@ Variable Stars, Time-Series Analysis, Big Data in Astronomy, Observational Astro
 
 ---
 
-### 🚀 Skills  
-- **Astronomy**: Photometry, Spectroscopy, Stellar Pulsation, Polarimetry
-- **Programming**: Python, IDL, Fortran, Bash, R, C++ 
-- **Data Science**: Machine Learning (Classification/Prediction), Astro-statistics, Time-Series Analysis
-- **Tools**: HPC, IRAF, DS9, Phoebe, Cloudy, TOPCAT, Git etc.
-
----
-
-### 🌟 Current Work
-* Developing methods for stellar parameter estimation using **S-PLUS** photometry.
-* Investigating the structure, extinction, and dynamics of the **Milky Way**.
-* Studying stellar populations in the **Magellanic Clouds**.
-* Applying machine learning and statistical methods to large astronomical datasets.
-* Exploring advanced data science techniques to extract hidden information from astronomical time-series.
-
----
-
 I am always interested in collaborations involving **astronomy**, **data science**, **machine learning**, or **scientific computing**. If you have a project in mind or simply want to connect, feel free to reach out.
 
 ### 📫 Connect with me
