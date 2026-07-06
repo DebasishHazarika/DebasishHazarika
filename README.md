@@ -34,25 +34,19 @@ I work in **Variable Stars**, **Stellar Populations**, **Milkyway**, **Nearby ga
 #### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://debasishhazarika.github.io/" target="_blank">
-    <img src="https://cdn.simpleicons.org/githubpages" width="40" alt="Website"/>
-  </a>
-  <a href="https://scholar.google.com/citations?user=xws4J2MAAAAJ" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlescholar" width="40" alt="Google Scholar"/>
-  </a>
-  <a href="https://orcid.org/0000-0003-4379-6777" target="_blank">
-    <img src="https://cdn.simpleicons.org/orcid" width="40" alt="ORCID"/>
-  </a>
-  <!-- <a href="https://github.com/DebasishHazarika" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  </a> -->
-  <a href="https://linkedin.com/in/hazarikadebasish" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin" width="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/73Debasish" target="_blank">
-    <img src="https://cdn.simpleicons.org/x" width="40" alt="X"/>
-  </a>
   <a href="mailto:debasish.academic@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" width="40" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail" width="24" alt="Email"/>
   </a>
-</p>gh large astronomical surveys, big data, and machine learning.* 🌌
+  <a href="https://scholar.google.com/citations?user=xws4J2MAAAAJ">
+    <img src="https://cdn.simpleicons.org/googlescholar" width="24" alt="Google Scholar"/>
+  </a>
+  <a href="https://orcid.org/0000-0003-4379-6777">
+    <img src="https://cdn.simpleicons.org/orcid" width="24" alt="ORCID"/>
+  </a>
+</p>
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://debasishhazarika.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hazarikadebasish)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/73Debasish)
+
+> *Exploring the Milky Way and nearby galaxies through large astronomical surveys, big data, and machine learning.* 🌌
