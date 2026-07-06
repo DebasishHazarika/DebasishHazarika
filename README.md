@@ -43,9 +43,6 @@ I work in **Variable Stars**, **Stellar Populations**, **Milkyway**, **Nearby ga
   <a href="https://orcid.org/0000-0003-4379-6777">
     <img src="https://cdn.simpleicons.org/orcid" width="27" alt="ORCID"/>
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
   <a href="https://debasishhazarika.github.io/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website"/>
   </a>
