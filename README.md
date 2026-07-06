@@ -20,8 +20,6 @@ I work in **Variable Stars**, **Stellar Populations**, **Milkyway**, **Nearby ga
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-#### 🔭 Research Interests
-**Variable Stars (Cepheids & RR Lyrae) • Milky Way Structure • Magellanic Clouds • Dwarf Galaxies • Stellar Populations • Large Astronomical Surveys • Machine Learning for Astronomy • Astrostatistics**
 
 #### 🌐 Connect with me 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://debasishhazarika.github.io/)
