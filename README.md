@@ -33,5 +33,5 @@ I work in **Variable Stars**, **Stellar Populations**, **Milkyway**, **Nearby ga
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debasish.academic@gmail.com)
 
 \
-\
+
 > *Exploring the Milky Way and nearby galaxies through large astronomical surveys, big data, and machine learning.* 🌌
