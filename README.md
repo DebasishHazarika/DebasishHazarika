@@ -1,36 +1,32 @@
-### Hi there, I'm Debasish Hazarika 👋
+# Hi there, I'm Debasish Hazarika 👋
 
-Welcome to my GitHub!
+Ph.D. researcher in **Astronomy** at **INCT-UDA, Chile**.
 
-I am a final-year Ph.D. researcher in Astronomy at **INCT-UDA, Chile** 🌌. My research focuses on the **structure, extinction, and stellar populations of the Milky Way and the Magellanic Clouds** using **large-scale multi-band sky surveys**. I primarily work with data from surveys such as **S-PLUS**, **VVV/VVVX**, **Gaia**, **OGLE**, **APOGEE**, **GALAH**, and **LAMOST**, complemented by my own PI-led observations obtained with telescopes including **Gemini**, **T80S**, and **HCT**.
+My research focuses on the **Milky Way**, **Magellanic Clouds**, **variable stars**, **dwarf galaxies**, and **machine learning** using data from **S-PLUS, Gaia, VVV/VVVX, OGLE, APOGEE, GALAH,** and **LAMOST**.
 
-My work combines observational astronomy, data science, and statistical analysis to extract physical information from massive astronomical datasets. I have experience in large-scale data analysis, machine learning, workflow automation, and scientific software development. I enjoy building data-driven solutions that address both fundamental research questions and real-world analytical challenges.
+I'm interested in collaborations in **Astronomy**, **Data Science**, **Machine Learning**, and **Scientific Computing**.
 
----
+## 📫 Connect with me
 
-### 🔭 Research Interests
-Variable Stars, Time-Series Analysis, Big Data in Astronomy, Observational Astronomy (Photometry & Spectroscopy), Galactic Structure and Evolution, Milky Way, Magellanic Clouds, Dwarf Galaxies in the Local Universe, Stellar Populations, Machine Learning for Astronomy
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://debasishhazarika.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=xws4J)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debasish.academic@gmail.com)
 
----
+## 🔬 Research Interests
 
-I am always interested in collaborations involving **astronomy**, **data science**, **machine learning**, or **scientific computing**. If you have a project in mind or simply want to connect, feel free to reach out.
+- Variable Stars
+- Galactic Structure
+- Magellanic Clouds
+- Dwarf Galaxies
+- Stellar Populations
+- Time-Series Analysis
+- Machine Learning for Astronomy
 
-### 📫 Connect with me
-- **Email:** [debasish.academic@gmail.com](mailto:debasish.academic@gmail.com)
-- **Website:** [https://debasishhazarika.github.io/](https://debasishhazarika.github.io/)
-- **Google Scholar** [https://scholar.google.com/citations?user=xws4J](https://scholar.google.com/citations?user=xws4J)
+## 💻 Languages & Tools
 
-<!--
-**DebasishHazarika/DebasishHazarika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Astropy](https://img.shields.io/badge/Astropy-311B92?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
