@@ -31,7 +31,6 @@ I work in **Variable Stars**, **Stellar Populations**, **Milkyway**, **Nearby ga
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="24" height="24" alt="Bash"/></a>
 </p>
 
----
 #### Connect with me:
 <p align="left">
   <a href="mailto:debasish.academic@gmail.com">
