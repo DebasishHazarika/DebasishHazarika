@@ -30,7 +30,8 @@ I work in **Variable Stars**, **Stellar Populations**, **Milkyway**, **Nearby ga
   <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" height="24" alt="C++"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="24" height="24" alt="Bash"/></a>
 </p>
----
+
+<hr style="height:1px;border:none;background-color:#d0d7de;">
 #### 🌐 Connect with me:
 <p align="left">
   <a href="mailto:debasish.academic@gmail.com">
