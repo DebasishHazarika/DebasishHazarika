@@ -1,13 +1,10 @@
 # Hi there, I'm Debasish Hazarika 👋
 
-**Ph.D. Researcher in Astronomy**  
-Institute of Astronomy and Planetary Science (INCT-UDA), University of Atacama, Chile 🇨🇱
+**Ph.D. Researcher in Astronomy**  at the Institute of Astronomy and Planetary Science (INCT-UDA), University of Atacama, Chile 🇨🇱
 
-I work in **Galactic Archaeology**, **Variable Stars**, **Stellar Populations**, and **Machine Learning for Astronomy**, using large astronomical surveys including **S-PLUS**, **Gaia**, **VVV/VVVX**, **OGLE**, **APOGEE**, **GALAH**, and **LAMOST**.
+I work in **Variable Stars**, **Stellar Populations**, **Milkyway**, **Nearby galaxies**, using data from large astronomical surveys and **Machine Learning / Astrostatistics** tools. I also enjoy developing open-source scientific tools and techniques for large-scale astronomical data analysis.
 
-I enjoy developing open-source scientific software for large-scale astronomical data analysis.
-
-### 🌐 Connect with me
+#### 🌐 Connect with me
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://debasishhazarika.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=xws4J2MAAAAJ)
@@ -17,18 +14,28 @@ I enjoy developing open-source scientific software for large-scale astronomical 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/73Debasish)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debasish.academic@gmail.com)
 
-### 🔭 Research Interests
+#### 🔭 Research Interests
 
-**Galactic Archaeology • Variable Stars (Cepheids & RR Lyrae) • Milky Way Structure • Magellanic Clouds • Dwarf Galaxies • Stellar Populations • Large Astronomical Surveys • Machine Learning for Astronomy**
+**Variable Stars (Cepheids & RR Lyrae) • Milky Way Structure • Magellanic Clouds • Dwarf Galaxies • Stellar Populations • Large Astronomical Surveys • Machine Learning for Astronomy • Astrostatistics**
 
-### 💻 Languages & Tools
+#### 💻 Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Astropy](https://img.shields.io/badge/Astropy-311B92?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Astropy](https://img.shields.io/badge/Astropy-311B92?style=for-the-badge)
+
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+![Dask](https://img.shields.io/badge/Dask-FC6E6B?style=for-the-badge&logo=dask&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-> *"Exploring the Milky Way, one dataset at a time."* 🌌
+> *Exploring the Milky Way and nearby galaxies through large astronomical surveys, big data, and machine learning.* 🌌
