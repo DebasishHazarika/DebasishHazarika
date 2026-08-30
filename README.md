@@ -1,6 +1,7 @@
 ## Hi there, I'm Debasish Hazarika 👋
 
 **Postdoc Research Associate** at the Steward Observatory, University of Arizona, USA 🇺🇸
+
 I completed my **Ph.D. in Astronomy** from the Institute of Astronomy and Planetary Science (INCT-UDA), University of Atacama, Chile 🇨🇱
 
 I work in **Milkyway**, **Nearby galaxies**, **Variable Stars**, **Stellar Populations** using data from large astronomical surveys such as **Rubin, S-PLUS, VVV/VVVx, Gaia, OGLE, APOGEE, GALAH (among others)** and **Machine Learning / Astrostatistics** tools. I also enjoy developing open-source scientific tools and techniques for large-scale astronomical data analysis. Open to collaboration.
