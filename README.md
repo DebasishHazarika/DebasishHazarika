@@ -1,6 +1,6 @@
 ## Hi there, I'm Debasish Hazarika 👋
 
-Currently, I'm a **Postdoc Research Associate** at the Steward Observatory, University of Arizona, USA 🇺🇸. Before that, I completed my **Ph.D. in Astronomy** from the Institute of Astronomy and Planetary Science (INCT-UDA), University of Atacama, Chile 🇨🇱 and **BS-MS in Physics** from Gauhati University, Assam, India 🇮🇳.
+Currently, I'm a **Postdoc Research Associate** at Steward Observatory, University of Arizona, USA 🇺🇸. Before that, I completed my **Ph.D. in Astronomy** from Institute of Astronomy and Planetary Science (INCT-UDA), University of Atacama, Chile 🇨🇱 and **BS-MS in Physics** from Gauhati University, Assam, India 🇮🇳.
 
 My work focuses on studying different properties of **Nearby Dwarf Galaxies** and **Milkyway** using data from large astronomical surveys such as **Rubin, DECaLs, S-PLUS, VVV/VVVx, Gaia, OGLE, APOGEE, GALAH **(among others) and **Machine Learning / Astrostatistics** tools. I also enjoy developing open-source scientific tools and techniques for large-scale astronomical data analysis. Open to collaboration.
 
